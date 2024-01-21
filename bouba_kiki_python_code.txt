@@ -1,0 +1,18 @@
+
+def bouba_kiki_rank_revised(word):
+    vowel_scores = {'a': 1, 'e': 2, 'i': 5, 'o': 1, 'u': 2}
+    consonant_scores = {'b': 1, 'c': 4, 'd': 2, 'f': 5, 'g': 3, 'h': 4, 'j': 2, 'k': 5,
+                        'l': 2, 'm': 1, 'n': 2, 'p': 4, 'q': 5, 'r': 3, 's': 4, 't': 4,
+                        'v': 3, 'w': 2, 'x': 5, 'y': 3, 'z': 5}
+    score = 0
+    for char in word.lower():
+        if char in vowel_scores:
+            score += vowel_scores[char]
+        elif char in consonant_scores:
+            score += consonant_scores[char]
+    max_score = 5 * len(word)
+    return round(score / max_score * 100)
+
+# Example usage
+words = ['example', 'words', 'to', 'test']
+ranked_words = [(word, bouba_kiki_rank_revised(word)) for word in words]
