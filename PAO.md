@@ -1,3 +1,5 @@
+| **Rank** | **Pokemon** | **Move** |
+|----------|-------------|----------|
 | AAo | [Treecko](http://example.com/pikachu-info)<br><img src="images/pokemon/Treecko.png" alt="Treecko" width="250" height="250"> | [Thunderbolt](http://example.com/thunderbolt-info)<br><img src="images/pokemon_moves/slam.png" alt="Thunderbolt" width="250" height="250"> |
 | AKo | [Torchic](http://example.com/pikachu-info)<br><img src="images/pokemon/Torchic.png" alt="Torchic" width="250" height="250"> | [Thunderbolt](http://example.com/thunderbolt-info)<br><img src="images/pokemon_moves/mirror-move.png" alt="Thunderbolt" width="250" height="250"> |
 | AQo | [Mudkip](http://example.com/pikachu-info)<br><img src="images/pokemon/Mudkip.png" alt="Mudkip" width="250" height="250"> | [Thunderbolt](http://example.com/thunderbolt-info)<br><img src="images/pokemon_moves/ice-ball.png" alt="Thunderbolt" width="250" height="250"> |
