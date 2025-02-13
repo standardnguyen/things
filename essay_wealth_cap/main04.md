@@ -1,4 +1,16 @@
-https://www.cis.org.au/wp-content/uploads/2015/07/op114.pdf
+
+
+<!-- <img src="./nixonphai.jpg" width="500"> -->
+
+# Against Wealth
+
+> **Government Employee:** S-sir, I'm afraid you've gone mad with power...  
+> **Russ Cargill:** Of course I have. You ever tried going mad without power? It's boring. No one listens to you!  
+>
+> — [*The Simpsons Movie (2007)*](https://www.youtube.com/watch?v=zoZRdnHeeYg)
+
+## The Fascism of Unbounded Wealth
+
 
 https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/
 
@@ -17,16 +29,8 @@ q to self: so I assume for the intro we're going for -
 
 okay one line is: we [mock](mussolini), [despise](hitler), and [distrust](trump) politicians who believe that they alone can be trusted with immense government power, which is why we celebrate democracy and advocate for so many checks and balances around the state's monopoly on violence. why do we grant a pass to rich people who trust themselves to solely wield immense financial power?
 
-<img src="./nixonphai.jpg" width="500">
-
-# Against Wealth
-
-> **Government Employee:** S-sir, I'm afraid you've gone mad with power...  
-> **Russ Cargill:** Of course I have. You ever tried going mad without power? It's boring. No one listens to you!  
->
-> — [*The Simpsons Movie (2007)*](https://www.youtube.com/watch?v=zoZRdnHeeYg)
-
 ## The Hypocrisy of Liberalism
+https://www.cis.org.au/wp-content/uploads/2015/07/op114.pdf
 
 > *The people of old Mississippi*  
 > *Should all hang their heads in shame*  
