@@ -87,10 +87,17 @@ listne, we all know that success (financial or otherwise) is both an outcome of 
 svery few people choose to have their life turned around by blosing the ability to move after being hit by a car. very few people choose to, like, try ing where they have a child that ends up needing hundreds of hours extra a month to take care of the,
 
 
-(oh! I ahve an idea!) the strucro this could be something like, "1. Too much inequality is bad"
+(oh! I ahve an idea!) the strucro this could be something like, 
+
+"1. Too much inequality is bad"
 
 and then show a gradient of a gini coefficient, or at least the difference in wealth between the poorest person in society and the richest person in society.
 
 2.  Really, the discussion is about where the line should be
 
 3. the line should be somewhere here
+
+
+# Reflection
+
+structuring and writing this in a libcurrents style is hard. i like writing satire, but it's hard for me to write sincerely about an actual policy.
