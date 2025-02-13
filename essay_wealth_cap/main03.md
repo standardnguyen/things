@@ -22,6 +22,8 @@
 - The inherent tension between equal opportunity and dynasty-building
 - Reference to the Brookings Institution "ladder" game showing this tension
 - [Need more development of foundational argument]
+- restricting freedoms is not inherently illiberal, because the tradeoff is that it promotes more freedoms in other areas
+- past a certain point, it just becomes dream hoarding and goes too hard against the ideal of equal opportunity that we all claim to believe in
 
 ## The Interpersonal Cost of Unlimited Wealth
 
@@ -36,7 +38,7 @@
 >
 > — Abigail Disney, interview with *[The Cut](https://www.cnbc.com/2019/04/02/why-abigail-disney-says-she-would-pass-a-law-against-private-jets.html)*
 
-## The Personal Cost of Unlimited Wealth
+## The Dishonesty of Unlimited Wealth
 
 > *How much a dollar really cost?*  
 > *The question is detrimental, paralyzin' my thoughts*  
@@ -44,6 +46,8 @@
 > *Gotta see how I'm chillin' once I park this luxury car*  
 >
 > — *Kendrick Lamar,* [*"How Much a Dollar Cost,"* *To Pimp a Butterfly (2015)*](https://www.youtube.com/watch?v=y8kEiL81_R4)
+
+- something about how nobody actually succeeds without breaking a few rules along the way.
 
 ## The Psychological Cost of Unlimited Wealth
 
@@ -88,6 +92,7 @@
 - "This violates rights"
 - "You're all socialists"
 - [Need to develop these counterarguments more fully]
+- nothing is stopping somebody from avoiding the wealth cap by just giving it to their friends and loved ones
 
 
 ## Conclusion
