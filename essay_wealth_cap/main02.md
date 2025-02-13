@@ -1,4 +1,4 @@
-> **EPA Official:** S-sir, I'm afraid you've gone mad with power...  
+> **Government Employee:** S-sir, I'm afraid you've gone mad with power...  
 > **Russ Cargill:** Of course I have. You ever tried going mad without power? It's boring. No one listens to you!  
 >
 > — [*The Simpsons Movie (2007)*](https://www.youtube.com/watch?v=zoZRdnHeeYg)
@@ -33,7 +33,7 @@
 
 ---
 
-> *Well, maybe I'm the faggot, America*  
+> *Well, maybe I'm the faggot, America*  https://www.youtube.com/watch?v=gERJjsDhe0g
 > *I'm not a part of a redneck agenda*  
 > *Now everybody, do the propaganda*  
 > *And sing along to the age of paranoia*  
