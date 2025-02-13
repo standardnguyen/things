@@ -29,7 +29,51 @@ q to self: so I assume for the intro we're going for -
 
 okay one line is: we [mock](mussolini), [despise](hitler), and [distrust](trump) politicians who believe that they alone can be trusted with immense government power, which is why we celebrate democracy and advocate for so many checks and balances around the state's monopoly on violence. why do we grant a pass to rich people who trust themselves to solely wield immense financial power?
 
-## The Hypocrisy of Liberalism
+## The Societal Myopia/Selfishness of Unbounded Wealth?
+
+> *How much a dollar really cost?*  
+> *The question is detrimental, paralyzin' my thoughts*  
+> *Parasites in my stomach keep me with a gut feeling, y'all*  
+> *Gotta see how I'm chillin' once I park this luxury car*  
+>
+> — *Kendrick Lamar,* [*"How Much a Dollar Cost,"* *To Pimp a Butterfly (2015)*](https://www.youtube.com/watch?v=y8kEiL81_R4)
+
+- something about how nobody actually succeeds without breaking a few rules along the way.
+
+## The Lombotomy? bahg
+
+- Your point about isolation from humanity
+- The Disney heir anecdote
+- Your personal story about welfare state benefits
+- [Need broader evidence/examples]
+
+> “[H]aving a jet is a really big deal. [...] You don’t have to go through an airport terminal,  
+> you don’t have to interact, you don’t have to be patient, you don’t have to be uncomfortable.  
+> These are the things that remind us we’re human.”  
+>
+> — Abigail Disney, interview with *[The Cut](https://www.cnbc.com/2019/04/02/why-abigail-disney-says-she-would-pass-a-law-against-private-jets.html)*
+
+> *Well, maybe I'm the faggot, America*  
+> *I'm not a part of a redneck agenda*  
+> *Now everybody, do the propaganda*  
+> *And sing along to the age of paranoia*  
+>
+> — *Green Day,* [*"American Idiot"*](https://www.youtube.com/watch?v=Ee_uujKuJMI)
+
+
+> *So, you've been to school for a year or two*  
+> *And you know you've seen it all*  
+> *In daddy's car, thinkin' you'll go far*  
+> *Back east, your type don't crawl*  
+> *Play ethnicky jazz to parade your snazz*  
+> *On your five-grand stereo*  
+> *Braggin' that you know how the n*****s feel cold*  
+> *And the slums got so much soul*  
+>
+> — *Dead Kennedys,* [*"Holiday in Cambodia"*](https://www.youtube.com/watch?v=v0Uc6ZWDF3c)
+
+## The Illiberalism
+
 https://www.cis.org.au/wp-content/uploads/2015/07/op114.pdf
 
 > *The people of old Mississippi*  
@@ -48,51 +92,6 @@ https://www.cis.org.au/wp-content/uploads/2015/07/op114.pdf
 - restricting freedoms is not inherently illiberal, because the tradeoff is that it promotes more freedoms in other areas
 - past a certain point, it just becomes dream hoarding and goes too hard against the ideal of equal opportunity that we all claim to believe in
 
-## The Interpersonal Cost of Unlimited Wealth
-
-- Your point about isolation from humanity
-- The Disney heir anecdote
-- Your personal story about welfare state benefits
-- [Need broader evidence/examples]
-
-> “[H]aving a jet is a really big deal. [...] You don’t have to go through an airport terminal,  
-> you don’t have to interact, you don’t have to be patient, you don’t have to be uncomfortable.  
-> These are the things that remind us we’re human.”  
->
-> — Abigail Disney, interview with *[The Cut](https://www.cnbc.com/2019/04/02/why-abigail-disney-says-she-would-pass-a-law-against-private-jets.html)*
-
-## The Dishonesty of Unlimited Wealth
-
-> *How much a dollar really cost?*  
-> *The question is detrimental, paralyzin' my thoughts*  
-> *Parasites in my stomach keep me with a gut feeling, y'all*  
-> *Gotta see how I'm chillin' once I park this luxury car*  
->
-> — *Kendrick Lamar,* [*"How Much a Dollar Cost,"* *To Pimp a Butterfly (2015)*](https://www.youtube.com/watch?v=y8kEiL81_R4)
-
-- something about how nobody actually succeeds without breaking a few rules along the way.
-
-## The Psychological Cost of Unlimited Wealth
-
-> *Well, maybe I'm the faggot, America*  https://www.youtube.com/watch?v=gERJjsDhe0g
-> *I'm not a part of a redneck agenda*  
-> *Now everybody, do the propaganda*  
-> *And sing along to the age of paranoia*  
->
-> — *Green Day,* [*"American Idiot"*](https://www.youtube.com/watch?v=Ee_uujKuJMI)
-
-## The Social Cost of Unlimited Wealth
-
-> *So, you've been to school for a year or two*  
-> *And you know you've seen it all*  
-> *In daddy's car, thinkin' you'll go far*  
-> *Back east, your type don't crawl*  
-> *Play ethnicky jazz to parade your snazz*  
-> *On your five-grand stereo*  
-> *Braggin' that you know how the n*****s feel cold*  
-> *And the slums got so much soul*  
->
-> — *Dead Kennedys,* [*"Holiday in Cambodia"*](https://www.youtube.com/watch?v=v0Uc6ZWDF3c)
 
 ## Drawing Reasonable Lines
 
