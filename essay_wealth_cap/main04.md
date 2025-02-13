@@ -2,15 +2,24 @@
 
 <!-- <img src="./nixonphai.jpg" width="500"> -->
 
-# Against Wealth
+# Against Wealth ✔
 
 > **Government Employee:** S-sir, I'm afraid you've gone mad with power...  
 > **Russ Cargill:** Of course I have. You ever tried going mad without power? It's boring. No one listens to you!  
 >
 > — [*The Simpsons Movie (2007)*](https://www.youtube.com/watch?v=zoZRdnHeeYg)
 
-## The Fascism of Unbounded Wealth
+We [mock](./mussolini.jpg), [despise](./hitler.png), and [distrust](./trump.png) politicians who believe that they alone can be trusted with immense government power, which is why we celebrate democracy and advocate for so many checks and balances around the state's monopoly on violence. So then why do we as a society give the benefit of the doubt to rich people who do the same thing? Why, pray tell, should we trust *anyone* to solely wield immense financial power?
 
+## Of Course There's A Line 
+
+> *No one man should have all that power*  
+> *The clock's ticking, I just count the hours*  
+> *Stop tripping, I'm tripping off the power*  
+>
+> — *Kanye West,* [*"POWER"*](https://www.youtube.com/watch?v=L53gjP-TtGE)
+
+"[A billion dollars is the socio-economic equivalent of a loose nuke, and we should work to prevent the former with the same intensity and ruthlessness as we work to prevent the latter.](https://bsky.app/profile/johnrogers.bsky.social/post/3lgxos6wp4s2q)"
 
 https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/
 
@@ -27,7 +36,7 @@ now, the richest man in the world is a nazi with nazi employees. (links to nazis
 q to self: so I assume for the intro we're going for -
 
 
-okay one line is: we [mock](mussolini), [despise](hitler), and [distrust](trump) politicians who believe that they alone can be trusted with immense government power, which is why we celebrate democracy and advocate for so many checks and balances around the state's monopoly on violence. why do we grant a pass to rich people who trust themselves to solely wield immense financial power?
+
 
 ## The Societal Myopia/Selfishness of Unbounded Wealth?
 
@@ -92,14 +101,6 @@ https://www.cis.org.au/wp-content/uploads/2015/07/op114.pdf
 - restricting freedoms is not inherently illiberal, because the tradeoff is that it promotes more freedoms in other areas
 - past a certain point, it just becomes dream hoarding and goes too hard against the ideal of equal opportunity that we all claim to believe in
 
-
-## Drawing Reasonable Lines
-
-> *No one man should have all that power*  
-> *The clock's ticking, I just count the hours*  
-> *Stop tripping, I'm tripping off the power*  
->
-> — *Kanye West,* [*"POWER"*](https://www.youtube.com/watch?v=L53gjP-TtGE)
 
 ## Addressing Common Objections
 
